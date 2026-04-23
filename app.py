@@ -350,7 +350,7 @@ HTML = """<!DOCTYPE html>
   </div>
 </div>
 
-<footer>صُنع بـ ❤️ · يعمل على Render.com مجاناً</footer>
+<footer>صُنع بـ ❤️ @AB7MII</footer>
 
 <script>
 let currentMode = 'pdf_to_word';
